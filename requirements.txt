@@ -1,0 +1,14 @@
+# Core
+pandas
+openpyxl
+tqdm
+
+# Comparaison / visualisation
+scikit-learn
+matplotlib
+numpy
+scipy
+
+# EMOTYC local inference
+torch
+transformers
